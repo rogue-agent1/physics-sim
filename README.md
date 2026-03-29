@@ -1,6 +1,6 @@
-# physics_sim
+# Physics Simulator
 
-Physics sim — projectile motion, pendulum, spring
+Physics Simulator — zero-dependency, single-file Python CLI.
 
 ## Usage
 
