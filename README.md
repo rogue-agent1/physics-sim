@@ -1,13 +1,17 @@
-# Physics Simulator
+# physics_sim
 
-Physics Simulator — zero-dependency, single-file Python CLI.
+2D physics simulation with gravity and collisions
+
+Single-file, zero-dependency Python CLI tool.
 
 ## Usage
 
 ```bash
-python3 physics_sim.py --help
+python physics_sim.py --help
 ```
 
-## License
+## Test
 
-MIT
+```bash
+python -c "import physics_sim; physics_sim.test()"
+```
