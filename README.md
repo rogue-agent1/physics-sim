@@ -1,17 +1,9 @@
-# physics_sim
+# physics-sim
 
-2D physics simulation with gravity and collisions
-
-Single-file, zero-dependency Python CLI tool.
+2D physics simulation with particles and collisions. Zero dependencies, single file, Python 3.8+.
 
 ## Usage
 
 ```bash
-python physics_sim.py --help
-```
-
-## Test
-
-```bash
-python -c "import physics_sim; physics_sim.test()"
+python3 physics_sim.py --help
 ```
